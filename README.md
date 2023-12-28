@@ -1,14 +1,20 @@
 # Hi! I am Yuugata Shinonome
 
-- 🌱 I’m currently learning Physics & Game Development
-- 💬 Ask me about any thing if you want
+- 🌱 I’m currently learning Physics
+- 💬 Ask me about any thing if you want.
 - 📫 How to reach me: <shinonome89@outlook.com>
 - 🏫 I get education in these schools:
-  - Experimental Junior Middle School in Yangchun
-  - No.1 Senior Middle School in Yangchun
   - School of Physics, South China Normal University
-- 🏢 I work in these cooperations:
-  - Sadly no
+  - No.1 Senior Middle School in Yangchun
+  - Experimental Junior Middle School in Yangchun
+- ⭐ I am interesting in these topics:
+  - Physics
+  - Math
+  - C++
+  - Python
+  - Mathematica
+  - Scientific Computation
+  - Qt
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinonome28&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
